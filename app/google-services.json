@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655619499850",
+    "project_id": "puzzleconnect-app",
+    "storage_bucket": "puzzleconnect-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655619499850:android:b01c6bb358dc21d0fb43b3",
+        "android_client_info": {
+          "package_name": "com.puzzlehr.puzzleconnectplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655619499850-dh107dufg0gn090i86aborvpqnl5efsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRNkFCBoaQkA0acPBXx5I_H4vPFw0oWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655619499850-dh107dufg0gn090i86aborvpqnl5efsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
